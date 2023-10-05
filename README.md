@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, reading books
 - 🌱 I’m currently learning Advanced Computer Science Concepts
 - 💞️ I’m looking to collaborate on web design and development, WordPress Design
-- 📫 Instagram @codinghindi
 
 <!---
 codinghindi/codinghindi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
